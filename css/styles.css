@@ -1,0 +1,148 @@
+.topdiv {
+  background-color: #A2DBFA;
+  padding-top: 150px;
+    padding-bottom: 0;
+}
+
+.middiv {
+  background-color: #EEEEEE;
+}
+
+.botdiv {
+  background-color: #C400FF;
+}
+
+.skill-row {
+  background-color: #FFF338;
+  width: 800px;
+  margin: 0 auto 35px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills {
+  background-color: #FFF338;
+}
+
+.profile {
+  background-color: #BD4B4B;
+  padding-bottom: 40px;
+}
+
+
+
+.joke {
+  background-color: #FF67E7;
+  padding-top: 25%;
+}
+
+.holla {
+  background-color: #28FFBF;
+  padding-bottom: 40px;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 3.75em;
+  color: #001E6C
+}
+
+h2 {
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 2rem;
+  display: inline-block;
+}
+
+h3 {
+  font-family: 'Walter Turncoat', cursive;
+  font-size: 1.5rem;
+  color: #001E6C;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+hr {
+  border-style: dashed;
+  width: 400px;
+}
+
+.bottom-cloud {
+  position: fixed;
+  top: 75px;
+  left: 20.6%;
+  padding-top: 35px;
+}
+
+.top-cloud {
+  position: fixed;
+  top: 50px;
+  left: 74%;
+  padding-top: 35px;
+}
+
+.mountain {
+  width: 45%;
+
+  display: block;
+  margin: 0 auto 0 auto;
+}
+
+.sneakers {
+  width: 9.375rem;
+  margin-right: 60px;
+  float: left;
+}
+
+.tinder {
+  width: 6.875rem;
+  margin-left: 60px;
+  float: right;
+}
+
+.seriously {
+  font-size: 1.5rem;
+  padding-bottom: 20px;
+}
+
+.eatshit {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.invert {
+  background-color: #A2DBFA;
+}
+
+.upsidedown {
+  width: 45%;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+.thingone {
+  width: 35%;
+  margin: 0 auto 0 auto;
+  display: block;
+}
+.leftme {
+  width: 35%;
+  display: block;
+  position: absolute;
+  left: 0;
+
+
+}
+.rightme {
+  width: 35%;
+  position: absolute;
+  right: 0;
+
+}
